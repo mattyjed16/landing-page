@@ -8,13 +8,16 @@ body {
     color: #f9faf8;
     display: flex;
     flex-direction: column;
+    text-align: center;
+    
 }
 
 .nav {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    align-items: baseline;   
+    align-items: baseline;
+    margin-bottom: 100px;   
 }
 
 .header-logo {
@@ -50,10 +53,12 @@ ul {
 
 button {
     border: 0;
-    border-radius: 8px;
+    border-radius: 5px;
     background-color: #3882f6;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     color: #e5e7eb;
 }
 
