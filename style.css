@@ -8,9 +8,6 @@ body {
     color: #f9faf8;
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
-    
-       
 }
 
 .nav {
@@ -18,7 +15,7 @@ body {
     flex-direction: row;
     justify-content: space-around;
     align-items: baseline;
-    margin-bottom: 100px;   
+       
 }
 
 .header-logo {
@@ -51,7 +48,7 @@ ul {
    color: #e5e7eb; 
 }
 
-button {
+.sign-up {
     border: 0;
     border-radius: 5px;
     background-color: #3882f6;
@@ -60,20 +57,27 @@ button {
     padding-top: 5px;
     padding-bottom: 5px;
     color: #e5e7eb;
+    margin-top: 16px;
 }
 
 .hero {
   display: flex;
-  flex-wrap: wrap;
-  flex-direction: column;
-  width: 300px;
-  height: 400px;
-  align-content: space-between;
+  justify-content: center;
   align-items: center;
-  flex: auto;
+  gap: 16px;
+  margin-left: 250px;
+  margin-right: 200px;
+  margin-bottom: 75px;
+  margin-top: 75px;
+}
+
+.hero-left{
+    flex: 1;
+    gap: 16px;
+
 }
 .placeholder {
-    
+  padding: 30px;  
 }
 
 
