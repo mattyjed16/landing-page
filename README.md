@@ -7,4 +7,4 @@ When styling, I should be able to use the skills from the the last few lessons, 
 I will also use this page page to add any credits from images used in my page.
 
 Credits:
-
+All images are generated randomly via the unsplash community and are shared there for use for this purpose.
