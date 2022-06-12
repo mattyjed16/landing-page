@@ -158,10 +158,30 @@ h1 {
 }
 
 .call-header {
-    font-weight: 900;
+    font-weight: bolder;
     font-size: 20px;
-    padding-bottom: 5px;
+    margin-top: 40px;
+    margin-bottom: 0;
 }
 
+.call-sub {
+    font-size: 18px;
+    font-weight: lighter;
+    margin-top: 0;
+    margin-bottom: 40px;
+}
 
+.sign-up2 {
+    align-self: center;
+    border-color: #f9faf8;
+    border: 10;
+    border-radius: 5px;
+    background-color: #3882f6;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #e5e7eb;
+    margin-top: 16px;  
+}
 
